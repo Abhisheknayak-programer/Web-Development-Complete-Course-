@@ -1,0 +1,19 @@
+.heading {
+  color: red;
+}
+
+/* RED GREEN BLUE RANGE : 0 to 255*/
+.heading {
+  color: rgb(231, 99, 191);
+}
+
+#FirstPara {
+  color: rgba(252, 51, 1, 0.4);
+}
+
+/* HASH COLOR = a to f  and  0 to 9*/
+
+.IDE {
+  color: #aa9945;
+  color: #e689ff;
+}
