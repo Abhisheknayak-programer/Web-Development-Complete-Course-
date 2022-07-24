@@ -1,0 +1,11 @@
+.list__items li {
+  font-size: 40px;
+  list-style: none;
+  list-style: square;
+  list-style: lower-roman;
+  list-style: upper-roman;
+  list-style: upper-alpha;
+  list-style: armenian;
+  list-style: upper-latin;
+  list-style: georgian;
+}

@@ -1,0 +1,12 @@
+.first_heading {
+  font-size: 50px;
+}
+
+.para {
+  /* Light : 100, 200, 300, 400 */
+  /* Medium : 500, 600, 700 */
+  /* High  800, 900, 1000 */
+  font-weight: 100;
+  font-size: 30px;
+  font-style: italic;
+}

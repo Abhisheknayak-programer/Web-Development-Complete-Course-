@@ -1,0 +1,13 @@
+.small_letter_name {
+  text-transform: uppercase;
+}
+
+.capital_letter_name {
+  text-transform: lowercase;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+.link {
+  text-decoration: none;
+}

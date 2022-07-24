@@ -1,0 +1,10 @@
+.First__div {
+  height: 500px;
+  width: 500px;
+  border: 10px ridge red;
+  cursor: pointer;
+  cursor: alias;
+  cursor: crosshair;
+  cursor: copy;
+  cursor: grabbing;
+}

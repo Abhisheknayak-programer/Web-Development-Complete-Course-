@@ -1,0 +1,10 @@
+.name {
+  border: 2px solid red;
+  text-align: start;
+  text-align: center;
+  text-align: end;
+}
+
+.demo__para {
+  text-align: center;
+}
